@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ОАЭ on Pencil box</title>
+    <link>http://localhost:8080/countries/%D0%BE%D0%B0%D1%8D/</link>
+    <description>Recent content in ОАЭ on Pencil box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:8080/countries/%D0%BE%D0%B0%D1%8D/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Верблюд из Дубая</title>
+      <link>http://localhost:8080/pencil/dubaicamel/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/pencil/dubaicamel/</guid>
+      <description>Розовый, разукрашенный верблюдами карандаш. Вместо резинки – тоже верблюд. Примечательно, что все – одногорбые, видимо, эстетически красивей, чем рисовать по два горба.</description>
+    </item>
+    
+    <item>
+      <title>Самый быстрый карандаш</title>
+      <link>http://localhost:8080/pencil/ferrari/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/pencil/ferrari/</guid>
+      <description>Плохого контраста карандаш: на красном фоне розовой надписью разошелся паттерн из слов Ferrari World и Abudhabi, стилизованной под арабскую вязь. В общем-то, из феррари ворлд этот карандаш и был привезен.</description>
+    </item>
+    
+  </channel>
+</rss>

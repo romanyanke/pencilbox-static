@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cities on Pencil box</title>
+    <link>http://localhost:8080/cities/</link>
+    <description>Recent content in Cities on Pencil box</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://localhost:8080/cities/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Санкт-Петербург</title>
+      <link>http://localhost:8080/cities/%D1%81%D0%B0%D0%BD%D0%BA%D1%82-%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D1%81%D0%B0%D0%BD%D0%BA%D1%82-%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ереван</title>
+      <link>http://localhost:8080/cities/%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BD/</link>
+      <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Лиссабон</title>
+      <link>http://localhost:8080/cities/%D0%BB%D0%B8%D1%81%D1%81%D0%B0%D0%B1%D0%BE%D0%BD/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BB%D0%B8%D1%81%D1%81%D0%B0%D0%B1%D0%BE%D0%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Порту</title>
+      <link>http://localhost:8080/cities/%D0%BF%D0%BE%D1%80%D1%82%D1%83/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BF%D0%BE%D1%80%D1%82%D1%83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Венеция</title>
+      <link>http://localhost:8080/cities/%D0%B2%D0%B5%D0%BD%D0%B5%D1%86%D0%B8%D1%8F/</link>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%B2%D0%B5%D0%BD%D0%B5%D1%86%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Неаполь</title>
+      <link>http://localhost:8080/cities/%D0%BD%D0%B5%D0%B0%D0%BF%D0%BE%D0%BB%D1%8C/</link>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BD%D0%B5%D0%B0%D0%BF%D0%BE%D0%BB%D1%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Париж</title>
+      <link>http://localhost:8080/cities/%D0%BF%D0%B0%D1%80%D0%B8%D0%B6/</link>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BF%D0%B0%D1%80%D0%B8%D0%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Помпеи</title>
+      <link>http://localhost:8080/cities/%D0%BF%D0%BE%D0%BC%D0%BF%D0%B5%D0%B8/</link>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BF%D0%BE%D0%BC%D0%BF%D0%B5%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Рим</title>
+      <link>http://localhost:8080/cities/%D1%80%D0%B8%D0%BC/</link>
+      <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D1%80%D0%B8%D0%BC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Великий Новгород</title>
+      <link>http://localhost:8080/cities/%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9-%D0%BD%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9-%D0%BD%D0%BE%D0%B2%D0%B3%D0%BE%D1%80%D0%BE%D0%B4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Копенгаген</title>
+      <link>http://localhost:8080/cities/%D0%BA%D0%BE%D0%BF%D0%B5%D0%BD%D0%B3%D0%B0%D0%B3%D0%B5%D0%BD/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BA%D0%BE%D0%BF%D0%B5%D0%BD%D0%B3%D0%B0%D0%B3%D0%B5%D0%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Мюнхен</title>
+      <link>http://localhost:8080/cities/%D0%BC%D1%8E%D0%BD%D1%85%D0%B5%D0%BD/</link>
+      <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BC%D1%8E%D0%BD%D1%85%D0%B5%D0%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Новосибирск</title>
+      <link>http://localhost:8080/cities/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA/</link>
+      <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BD%D0%BE%D0%B2%D0%BE%D1%81%D0%B8%D0%B1%D0%B8%D1%80%D1%81%D0%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Псков</title>
+      <link>http://localhost:8080/cities/%D0%BF%D1%81%D0%BA%D0%BE%D0%B2/</link>
+      <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BF%D1%81%D0%BA%D0%BE%D0%B2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Потсдам</title>
+      <link>http://localhost:8080/cities/%D0%BF%D0%BE%D1%82%D1%81%D0%B4%D0%B0%D0%BC/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BF%D0%BE%D1%82%D1%81%D0%B4%D0%B0%D0%BC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Хум</title>
+      <link>http://localhost:8080/cities/%D1%85%D1%83%D0%BC/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D1%85%D1%83%D0%BC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ньюгрейндж</title>
+      <link>http://localhost:8080/cities/%D0%BD%D1%8C%D1%8E%D0%B3%D1%80%D0%B5%D0%B9%D0%BD%D0%B4%D0%B6/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BD%D1%8C%D1%8E%D0%B3%D1%80%D0%B5%D0%B9%D0%BD%D0%B4%D0%B6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Таллин</title>
+      <link>http://localhost:8080/cities/%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D0%BD/</link>
+      <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D0%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Хельсинки</title>
+      <link>http://localhost:8080/cities/%D1%85%D0%B5%D0%BB%D1%8C%D1%81%D0%B8%D0%BD%D0%BA%D0%B8/</link>
+      <pubDate>Mon, 18 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D1%85%D0%B5%D0%BB%D1%8C%D1%81%D0%B8%D0%BD%D0%BA%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ретимно</title>
+      <link>http://localhost:8080/cities/%D1%80%D0%B5%D1%82%D0%B8%D0%BC%D0%BD%D0%BE/</link>
+      <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D1%80%D0%B5%D1%82%D0%B8%D0%BC%D0%BD%D0%BE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Поморье</title>
+      <link>http://localhost:8080/cities/%D0%BF%D0%BE%D0%BC%D0%BE%D1%80%D1%8C%D0%B5/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BF%D0%BE%D0%BC%D0%BE%D1%80%D1%8C%D0%B5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Сиаргао</title>
+      <link>http://localhost:8080/cities/%D1%81%D0%B8%D0%B0%D1%80%D0%B3%D0%B0%D0%BE/</link>
+      <pubDate>Sat, 28 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D1%81%D0%B8%D0%B0%D1%80%D0%B3%D0%B0%D0%BE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Сингапур</title>
+      <link>http://localhost:8080/cities/%D1%81%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80/</link>
+      <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D1%81%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Вильнюс</title>
+      <link>http://localhost:8080/cities/%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8E%D1%81/</link>
+      <pubDate>Thu, 04 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8E%D1%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Рига</title>
+      <link>http://localhost:8080/cities/%D1%80%D0%B8%D0%B3%D0%B0/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D1%80%D0%B8%D0%B3%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Лондон</title>
+      <link>http://localhost:8080/cities/%D0%BB%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD/</link>
+      <pubDate>Sun, 26 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BB%D0%BE%D0%BD%D0%B4%D0%BE%D0%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Бенидорм</title>
+      <link>http://localhost:8080/cities/%D0%B1%D0%B5%D0%BD%D0%B8%D0%B4%D0%BE%D1%80%D0%BC/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%B1%D0%B5%D0%BD%D0%B8%D0%B4%D0%BE%D1%80%D0%BC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Валенсия</title>
+      <link>http://localhost:8080/cities/%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%81%D0%B8%D1%8F/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%B2%D0%B0%D0%BB%D0%B5%D0%BD%D1%81%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Москва</title>
+      <link>http://localhost:8080/cities/%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0/</link>
+      <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Амстердам</title>
+      <link>http://localhost:8080/cities/%D0%B0%D0%BC%D1%81%D1%82%D0%B5%D1%80%D0%B4%D0%B0%D0%BC/</link>
+      <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%B0%D0%BC%D1%81%D1%82%D0%B5%D1%80%D0%B4%D0%B0%D0%BC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Брюгге</title>
+      <link>http://localhost:8080/cities/%D0%B1%D1%80%D1%8E%D0%B3%D0%B3%D0%B5/</link>
+      <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%B1%D1%80%D1%8E%D0%B3%D0%B3%D0%B5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Минск</title>
+      <link>http://localhost:8080/cities/%D0%BC%D0%B8%D0%BD%D1%81%D0%BA/</link>
+      <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BC%D0%B8%D0%BD%D1%81%D0%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Марсель</title>
+      <link>http://localhost:8080/cities/%D0%BC%D0%B0%D1%80%D1%81%D0%B5%D0%BB%D1%8C/</link>
+      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BC%D0%B0%D1%80%D1%81%D0%B5%D0%BB%D1%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Будапешт</title>
+      <link>http://localhost:8080/cities/%D0%B1%D1%83%D0%B4%D0%B0%D0%BF%D0%B5%D1%88%D1%82/</link>
+      <pubDate>Tue, 23 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%B1%D1%83%D0%B4%D0%B0%D0%BF%D0%B5%D1%88%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Прага</title>
+      <link>http://localhost:8080/cities/%D0%BF%D1%80%D0%B0%D0%B3%D0%B0/</link>
+      <pubDate>Fri, 19 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BF%D1%80%D0%B0%D0%B3%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Мале</title>
+      <link>http://localhost:8080/cities/%D0%BC%D0%B0%D0%BB%D0%B5/</link>
+      <pubDate>Sat, 10 Dec 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BC%D0%B0%D0%BB%D0%B5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Баку</title>
+      <link>http://localhost:8080/cities/%D0%B1%D0%B0%D0%BA%D1%83/</link>
+      <pubDate>Mon, 15 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%B1%D0%B0%D0%BA%D1%83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Карловы Вары</title>
+      <link>http://localhost:8080/cities/%D0%BA%D0%B0%D1%80%D0%BB%D0%BE%D0%B2%D1%8B-%D0%B2%D0%B0%D1%80%D1%8B/</link>
+      <pubDate>Sun, 07 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BA%D0%B0%D1%80%D0%BB%D0%BE%D0%B2%D1%8B-%D0%B2%D0%B0%D1%80%D1%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Бургос</title>
+      <link>http://localhost:8080/cities/%D0%B1%D1%83%D1%80%D0%B3%D0%BE%D1%81/</link>
+      <pubDate>Mon, 11 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%B1%D1%83%D1%80%D0%B3%D0%BE%D1%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Сантильяна-дель-Мар</title>
+      <link>http://localhost:8080/cities/%D1%81%D0%B0%D0%BD%D1%82%D0%B8%D0%BB%D1%8C%D1%8F%D0%BD%D0%B0-%D0%B4%D0%B5%D0%BB%D1%8C-%D0%BC%D0%B0%D1%80/</link>
+      <pubDate>Mon, 11 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D1%81%D0%B0%D0%BD%D1%82%D0%B8%D0%BB%D1%8C%D1%8F%D0%BD%D0%B0-%D0%B4%D0%B5%D0%BB%D1%8C-%D0%BC%D0%B0%D1%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Сан-франциско</title>
+      <link>http://localhost:8080/cities/%D1%81%D0%B0%D0%BD-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%81%D0%BA%D0%BE/</link>
+      <pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D1%81%D0%B0%D0%BD-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%81%D0%BA%D0%BE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Акурейри</title>
+      <link>http://localhost:8080/cities/%D0%B0%D0%BA%D1%83%D1%80%D0%B5%D0%B9%D1%80%D0%B8/</link>
+      <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%B0%D0%BA%D1%83%D1%80%D0%B5%D0%B9%D1%80%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Куско</title>
+      <link>http://localhost:8080/cities/%D0%BA%D1%83%D1%81%D0%BA%D0%BE/</link>
+      <pubDate>Sun, 15 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BA%D1%83%D1%81%D0%BA%D0%BE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Красноярск</title>
+      <link>http://localhost:8080/cities/%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%8F%D1%80%D1%81%D0%BA/</link>
+      <pubDate>Sun, 08 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D0%BE%D1%8F%D1%80%D1%81%D0%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Сеул</title>
+      <link>http://localhost:8080/cities/%D1%81%D0%B5%D1%83%D0%BB/</link>
+      <pubDate>Fri, 25 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D1%81%D0%B5%D1%83%D0%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ярославль</title>
+      <link>http://localhost:8080/cities/%D1%8F%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BB%D1%8C/</link>
+      <pubDate>Sun, 20 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D1%8F%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D0%BB%D1%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Владикавказ</title>
+      <link>http://localhost:8080/cities/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BA%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7/</link>
+      <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BA%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Таллинe</title>
+      <link>http://localhost:8080/cities/%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D0%BDe/</link>
+      <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D0%BDe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Братислава</title>
+      <link>http://localhost:8080/cities/%D0%B1%D1%80%D0%B0%D1%82%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D0%B0/</link>
+      <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%B1%D1%80%D0%B0%D1%82%D0%B8%D1%81%D0%BB%D0%B0%D0%B2%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Душанбе</title>
+      <link>http://localhost:8080/cities/%D0%B4%D1%83%D1%88%D0%B0%D0%BD%D0%B1%D0%B5/</link>
+      <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%B4%D1%83%D1%88%D0%B0%D0%BD%D0%B1%D0%B5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ллорет-де-Мар</title>
+      <link>http://localhost:8080/cities/%D0%BB%D0%BB%D0%BE%D1%80%D0%B5%D1%82-%D0%B4%D0%B5-%D0%BC%D0%B0%D1%80/</link>
+      <pubDate>Thu, 03 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BB%D0%BB%D0%BE%D1%80%D0%B5%D1%82-%D0%B4%D0%B5-%D0%BC%D0%B0%D1%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Вена</title>
+      <link>http://localhost:8080/cities/%D0%B2%D0%B5%D0%BD%D0%B0/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%B2%D0%B5%D0%BD%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Аббатство Виллер</title>
+      <link>http://localhost:8080/cities/%D0%B0%D0%B1%D0%B1%D0%B0%D1%82%D1%81%D1%82%D0%B2%D0%BE-%D0%B2%D0%B8%D0%BB%D0%BB%D0%B5%D1%80/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%B0%D0%B1%D0%B1%D0%B0%D1%82%D1%81%D1%82%D0%B2%D0%BE-%D0%B2%D0%B8%D0%BB%D0%BB%D0%B5%D1%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Абу-Даби</title>
+      <link>http://localhost:8080/cities/%D0%B0%D0%B1%D1%83-%D0%B4%D0%B0%D0%B1%D0%B8/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%B0%D0%B1%D1%83-%D0%B4%D0%B0%D0%B1%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Алькала-де-Энарес</title>
+      <link>http://localhost:8080/cities/%D0%B0%D0%BB%D1%8C%D0%BA%D0%B0%D0%BB%D0%B0-%D0%B4%D0%B5-%D1%8D%D0%BD%D0%B0%D1%80%D0%B5%D1%81/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%B0%D0%BB%D1%8C%D0%BA%D0%B0%D0%BB%D0%B0-%D0%B4%D0%B5-%D1%8D%D0%BD%D0%B0%D1%80%D0%B5%D1%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Бали</title>
+      <link>http://localhost:8080/cities/%D0%B1%D0%B0%D0%BB%D0%B8/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%B1%D0%B0%D0%BB%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Валлетта</title>
+      <link>http://localhost:8080/cities/%D0%B2%D0%B0%D0%BB%D0%BB%D0%B5%D1%82%D1%82%D0%B0/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%B2%D0%B0%D0%BB%D0%BB%D0%B5%D1%82%D1%82%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ватикан</title>
+      <link>http://localhost:8080/cities/%D0%B2%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%D0%BD/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%B2%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%D0%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ГОА</title>
+      <link>http://localhost:8080/cities/%D0%B3%D0%BE%D0%B0/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%B3%D0%BE%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Гвадалахара</title>
+      <link>http://localhost:8080/cities/%D0%B3%D0%B2%D0%B0%D0%B4%D0%B0%D0%BB%D0%B0%D1%85%D0%B0%D1%80%D0%B0/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%B3%D0%B2%D0%B0%D0%B4%D0%B0%D0%BB%D0%B0%D1%85%D0%B0%D1%80%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Дубай</title>
+      <link>http://localhost:8080/cities/%D0%B4%D1%83%D0%B1%D0%B0%D0%B9/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%B4%D1%83%D0%B1%D0%B0%D0%B9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Катманду</title>
+      <link>http://localhost:8080/cities/%D0%BA%D0%B0%D1%82%D0%BC%D0%B0%D0%BD%D0%B4%D1%83/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BA%D0%B0%D1%82%D0%BC%D0%B0%D0%BD%D0%B4%D1%83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Крым</title>
+      <link>http://localhost:8080/cities/%D0%BA%D1%80%D1%8B%D0%BC/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BA%D1%80%D1%8B%D0%BC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Мадрид</title>
+      <link>http://localhost:8080/cities/%D0%BC%D0%B0%D0%B4%D1%80%D0%B8%D0%B4/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BC%D0%B0%D0%B4%D1%80%D0%B8%D0%B4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Неизвестно</title>
+      <link>http://localhost:8080/cities/%D0%BD%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BD%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Никосия</title>
+      <link>http://localhost:8080/cities/%D0%BD%D0%B8%D0%BA%D0%BE%D1%81%D0%B8%D1%8F/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BD%D0%B8%D0%BA%D0%BE%D1%81%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Нячанг</title>
+      <link>http://localhost:8080/cities/%D0%BD%D1%8F%D1%87%D0%B0%D0%BD%D0%B3/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BD%D1%8F%D1%87%D0%B0%D0%BD%D0%B3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Паттайя</title>
+      <link>http://localhost:8080/cities/%D0%BF%D0%B0%D1%82%D1%82%D0%B0%D0%B9%D1%8F/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BF%D0%B0%D1%82%D1%82%D0%B0%D0%B9%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Подгорица</title>
+      <link>http://localhost:8080/cities/%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%80%D0%B8%D1%86%D0%B0/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%80%D0%B8%D1%86%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Пхукет</title>
+      <link>http://localhost:8080/cities/%D0%BF%D1%85%D1%83%D0%BA%D0%B5%D1%82/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D0%BF%D1%85%D1%83%D0%BA%D0%B5%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Санто-Доминго</title>
+      <link>http://localhost:8080/cities/%D1%81%D0%B0%D0%BD%D1%82%D0%BE-%D0%B4%D0%BE%D0%BC%D0%B8%D0%BD%D0%B3%D0%BE/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D1%81%D0%B0%D0%BD%D1%82%D0%BE-%D0%B4%D0%BE%D0%BC%D0%B8%D0%BD%D0%B3%D0%BE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Толедо</title>
+      <link>http://localhost:8080/cities/%D1%82%D0%BE%D0%BB%D0%B5%D0%B4%D0%BE/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D1%82%D0%BE%D0%BB%D0%B5%D0%B4%D0%BE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Томск</title>
+      <link>http://localhost:8080/cities/%D1%82%D0%BE%D0%BC%D1%81%D0%BA/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D1%82%D0%BE%D0%BC%D1%81%D0%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Торонто</title>
+      <link>http://localhost:8080/cities/%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D1%82%D0%BE/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D1%82%D0%BE/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Турин</title>
+      <link>http://localhost:8080/cities/%D1%82%D1%83%D1%80%D0%B8%D0%BD/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D1%82%D1%83%D1%80%D0%B8%D0%BD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Флоренция</title>
+      <link>http://localhost:8080/cities/%D1%84%D0%BB%D0%BE%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D1%84%D0%BB%D0%BE%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Хайнань</title>
+      <link>http://localhost:8080/cities/%D1%85%D0%B0%D0%B9%D0%BD%D0%B0%D0%BD%D1%8C/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/cities/%D1%85%D0%B0%D0%B9%D0%BD%D0%B0%D0%BD%D1%8C/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
