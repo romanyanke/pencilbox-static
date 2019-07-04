@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Болгария on Pencil box</title>
-    <link>https://romanyanke.github.io/taxonomy/countries/%D0%B1%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F/</link>
+    <link>https://romanyanke.github.io/pencilbox-static/countries/%D0%B1%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F/</link>
     <description>Recent content in Болгария on Pencil box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 14 May 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://romanyanke.github.io/taxonomy/countries/%D0%B1%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://romanyanke.github.io/pencilbox-static/countries/%D0%B1%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Болгарское пламя</title>
-      <link>https://romanyanke.github.io/taxonomy/pencil/flame/</link>
+      <link>https://romanyanke.github.io/pencilbox-static/pencil/flame/</link>
       <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://romanyanke.github.io/taxonomy/pencil/flame/</guid>
+      <guid>https://romanyanke.github.io/pencilbox-static/pencil/flame/</guid>
       <description>Болгарские языки пламени.</description>
     </item>
     

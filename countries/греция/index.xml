@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Греция on Pencil box</title>
-    <link>https://romanyanke.github.io/taxonomy/countries/%D0%B3%D1%80%D0%B5%D1%86%D0%B8%D1%8F/</link>
+    <link>https://romanyanke.github.io/pencilbox-static/countries/%D0%B3%D1%80%D0%B5%D1%86%D0%B8%D1%8F/</link>
     <description>Recent content in Греция on Pencil box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 05 Jun 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://romanyanke.github.io/taxonomy/countries/%D0%B3%D1%80%D0%B5%D1%86%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://romanyanke.github.io/pencilbox-static/countries/%D0%B3%D1%80%D0%B5%D1%86%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Греческий флаг</title>
-      <link>https://romanyanke.github.io/taxonomy/pencil/greece/</link>
+      <link>https://romanyanke.github.io/pencilbox-static/pencil/greece/</link>
       <pubDate>Tue, 05 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://romanyanke.github.io/taxonomy/pencil/greece/</guid>
+      <guid>https://romanyanke.github.io/pencilbox-static/pencil/greece/</guid>
       <description>Простой карандаш, по которому сразу понятно из какой он страны.</description>
     </item>
     
     <item>
       <title>Большая греческая черепаха</title>
-      <link>https://romanyanke.github.io/taxonomy/pencil/greekturtle/</link>
+      <link>https://romanyanke.github.io/pencilbox-static/pencil/greekturtle/</link>
       <pubDate>Sun, 03 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://romanyanke.github.io/taxonomy/pencil/greekturtle/</guid>
+      <guid>https://romanyanke.github.io/pencilbox-static/pencil/greekturtle/</guid>
       <description>В магазине мне сказали, что это – карандаш, хотя больше похоже на черепашку на палочке. Теперь это вторая черепаха в моей коллекции.</description>
     </item>
     
