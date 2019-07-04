@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Индия on Pencil box</title>
-    <link>http://localhost:8080/countries/%D0%B8%D0%BD%D0%B4%D0%B8%D1%8F/</link>
+    <link>https://romanyanke.github.io/taxonomy/countries/%D0%B8%D0%BD%D0%B4%D0%B8%D1%8F/</link>
     <description>Recent content in Индия on Pencil box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:8080/countries/%D0%B8%D0%BD%D0%B4%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://romanyanke.github.io/taxonomy/countries/%D0%B8%D0%BD%D0%B4%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Nataraj 506</title>
-      <link>http://localhost:8080/pencil/natarajblack/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/natarajblack/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/natarajblack/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/natarajblack/</guid>
       <description>Простой карандаш из Индии. Когда я был сам в Индии, я был так восхищен, что забыл купить карандаш себе, но потом мне привезли его друзья. Правда друзья были в Непале, но страна бедная и ничего не производит, половину товара импортирует из Индии. Они привезли мне два карандаша из Непала, но сделанных в Индии. Поэтому этот – индийский, а другой – непальский.</description>
     </item>
     

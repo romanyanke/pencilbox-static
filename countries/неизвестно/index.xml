@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Неизвестно on Pencil box</title>
-    <link>http://localhost:8080/countries/%D0%BD%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE/</link>
+    <link>https://romanyanke.github.io/taxonomy/countries/%D0%BD%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE/</link>
     <description>Recent content in Неизвестно on Pencil box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:8080/countries/%D0%BD%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://romanyanke.github.io/taxonomy/countries/%D0%BD%D0%B5%D0%B8%D0%B7%D0%B2%D0%B5%D1%81%D1%82%D0%BD%D0%BE/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Неизвестный брауберг</title>
-      <link>http://localhost:8080/pencil/brauberg/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/brauberg/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/brauberg/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/brauberg/</guid>
       <description>Вот про этот карандаш я совсем не уверен. Он давно лежит вместе с остальными, но я не могу вспомнить: то ли мне его привез кто-то, то ли он просто куплен где-то тут.</description>
     </item>
     
     <item>
       <title>Черный карандаш с пузырями</title>
-      <link>http://localhost:8080/pencil/bubbles/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/bubbles/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/bubbles/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/bubbles/</guid>
       <description>Черный карандаш с разноцветными кругами и окружностями. С черной резинкой. Не могу вспомнить, что и откуда мне его привез.</description>
     </item>
     

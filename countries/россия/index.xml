@@ -2,166 +2,166 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Россия on Pencil box</title>
-    <link>http://localhost:8080/countries/%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F/</link>
+    <link>https://romanyanke.github.io/taxonomy/countries/%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F/</link>
     <description>Recent content in Россия on Pencil box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:8080/countries/%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://romanyanke.github.io/taxonomy/countries/%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>JetBrains</title>
-      <link>http://localhost:8080/pencil/jetbrains/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/jetbrains/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/jetbrains/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/jetbrains/</guid>
       <description>Еще один бесплатный карандаш с конференции. Сделан из такой популярной черной болванки как у wrike или odin.</description>
     </item>
     
     <item>
       <title>Деревянный Новгород</title>
-      <link>http://localhost:8080/pencil/novgorod-tree/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/novgorod-tree/</link>
       <pubDate>Tue, 15 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/novgorod-tree/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/novgorod-tree/</guid>
       <description>Три цветных карандаша в одной ветке дерева!</description>
     </item>
     
     <item>
       <title>Волны</title>
-      <link>http://localhost:8080/pencil/waves/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/waves/</link>
       <pubDate>Sat, 10 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/waves/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/waves/</guid>
       <description>Неизвестно откуда взявшийся карандаш попал ко мне из-за своей старнной формы.</description>
     </item>
     
     <item>
       <title>Псков</title>
-      <link>http://localhost:8080/pencil/pskov/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/pskov/</link>
       <pubDate>Sun, 04 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/pskov/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/pskov/</guid>
       <description>Маленький карандаш из Пскова</description>
     </item>
     
     <item>
       <title>В любой непонятной ситуации</title>
-      <link>http://localhost:8080/pencil/gopiter/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/gopiter/</link>
       <pubDate>Fri, 19 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/gopiter/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/gopiter/</guid>
       <description>Случайно зашел в книжный магазин в Питере и увидел этот карандаш. Как раз для моей коллекции. Всего 65₽</description>
     </item>
     
     <item>
       <title>Леруа</title>
-      <link>http://localhost:8080/pencil/leroymerlin/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/leroymerlin/</link>
       <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/leroymerlin/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/leroymerlin/</guid>
       <description>Такой же маленький и бесплатный карандаш как в икеи.</description>
     </item>
     
     <item>
       <title>Московские башни</title>
-      <link>http://localhost:8080/pencil/moscowtowers/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/moscowtowers/</link>
       <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/moscowtowers/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/moscowtowers/</guid>
       <description>Эти карандаши я купил в одном из павильонов парка Зарядье в Москве. На каждом из четырех карандашей изображена башня и год возведения: Спасская, Меньшикова, Шуховская, Останкинская.</description>
     </item>
     
     <item>
       <title>Фрукты Яндекса</title>
-      <link>http://localhost:8080/pencil/yandexfruit/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/yandexfruit/</link>
       <pubDate>Thu, 06 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/yandexfruit/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/yandexfruit/</guid>
       <description>В прозрачной упаковке, в которой находится 6 карандашей и вкладыш, повторяющий принты карандашей, еще написано &amp;ldquo;В пищу не употреблять&amp;rdquo;, потому что эти карандаши похожи на фруктовые палочки! Клубника, арбуз, апельсин, банан, огурец и черника – каждый карандаш повторяет цвет фрукта/овоща/ягоды. Карандаши квадратные, специально для них пришлось завести тег квадратный. Принт фрукта только с одной стороны, с другой, бесцветной, карандаши соединены скотчем в единую ленту. Это подарок от коллеги из Яндекса на мой день рождения.</description>
     </item>
     
     <item>
       <title>Wrike</title>
-      <link>http://localhost:8080/pencil/wrike/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/wrike/</link>
       <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/wrike/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/wrike/</guid>
       <description>Один из многих корпоративных карандашей. Этот который я взял на конференции в Санкт-Петербурге.
 Похоже, с Одином в одном месте делали.</description>
     </item>
     
     <item>
       <title>Росконгресс</title>
-      <link>http://localhost:8080/pencil/roscongress/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/roscongress/</link>
       <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/roscongress/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/roscongress/</guid>
       <description>Однажды я пришел на HolyJS, конечно, набрал кучу карандашей на этой конференции, но когда выходил из отеля, где она проходила, увидел, что параллельно проходило еще одно неизвестное мне мероприятие – этот самый Росконгресс. Название скучное настолько, что я даже не погуглил, что это.</description>
     </item>
     
     <item>
       <title>Селектел</title>
-      <link>http://localhost:8080/pencil/selectel/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/selectel/</link>
       <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/selectel/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/selectel/</guid>
       <description>Еще одна питерская компания разадавала карандаши на своем стенде, я не смог пройти мимо.</description>
     </item>
     
     <item>
       <title>Сименс</title>
-      <link>http://localhost:8080/pencil/siemens/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/siemens/</link>
       <pubDate>Fri, 02 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/siemens/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/siemens/</guid>
       <description>И еще один корпоративный карандаш с конференции, в этот раз – Сименс.</description>
     </item>
     
     <item>
       <title>Мягкий музей Фаберже</title>
-      <link>http://localhost:8080/pencil/faberge/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/faberge/</link>
       <pubDate>Sat, 15 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/faberge/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/faberge/</guid>
       <description>В сувенирном магазине музея был точно такой же карандаш как из Универститета Алькалы, поэтому я не стал его покупать. Вспомнил про одинаковые карандаши из Киасмы и Эль Греко. Может, скоро соберу все болванки карандашей из разных музеев. А этот мягкий и бархатный на ощупь.</description>
     </item>
     
     <item>
       <title>1st line software</title>
-      <link>http://localhost:8080/pencil/firstline/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/firstline/</link>
       <pubDate>Mon, 10 Apr 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/firstline/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/firstline/</guid>
       <description>Я не знаю, что эта за контора, мне подарили этот карандаш на работе.</description>
     </item>
     
     <item>
       <title>Эрмитаж</title>
-      <link>http://localhost:8080/pencil/hermitage/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/hermitage/</link>
       <pubDate>Sat, 14 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/hermitage/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/hermitage/</guid>
       <description>Купил в сувернирной лавке в Эрмитаже, кажется, за 60 рублей. Обычный белый карандаш, на боку золотым написано ЭРМИТАЖ. А еще он был упакован в красивый бумажный пакет.</description>
     </item>
     
     <item>
       <title>Музей современного искусства «Эрарта»</title>
-      <link>http://localhost:8080/pencil/erarta/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/erarta/</link>
       <pubDate>Sun, 27 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/erarta/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/erarta/</guid>
       <description>Этот карандаш я купил в сувенирной лавке Музея Современного Искусства «Эрарта» в Санкт-Петербурге (Россия). И это еще один огромный карандаш, которые так любят делать, но которые так неудобно хранить, когда их становится несколько.</description>
     </item>
     
     <item>
       <title>Раскрашу всё</title>
-      <link>http://localhost:8080/pencil/miniyandex/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/miniyandex/</link>
       <pubDate>Sat, 29 Oct 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/miniyandex/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/miniyandex/</guid>
       <description>✏ ✏ ✏ ✏ ✏ ✏ ✏ ✏ ✏ ✏ ✏ ✏
 Мини-набор &amp;ldquo;Раскрашу всё&amp;rdquo; из 12 цветных карандашей от Яндекса. Сам футляр размером с визитку, а каждый карандаш 45 миллиметров в длину. Еще там есть резинка и точилка для маленьких карандашей.
 А еще у меня есть фруктовый набор карандашей от Яндекса.</description>
@@ -169,120 +169,120 @@
     
     <item>
       <title>Академпарк</title>
-      <link>http://localhost:8080/pencil/academpark/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/academpark/</link>
       <pubDate>Sat, 02 Jul 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/academpark/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/academpark/</guid>
       <description>Карандаш выглядит немного потертым, но продается как новый на сувенирном стенде Академпарка (здание в Технопарке Новосибирского Академгородка). Стоит 15 рублей.</description>
     </item>
     
     <item>
       <title>Карандаш из Сколково</title>
-      <link>http://localhost:8080/pencil/skolkovo/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/skolkovo/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/skolkovo/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/skolkovo/</guid>
       <description>Этот карандаш я привез из Сколково, с конференции FrontendConf в рамках Ритфеста. Купил в сувенирной лавке за 90 рублей. На карандаше паттерн как на здании Московской школы управления Сколково, где проходила конференция. Еще оттуда же карандаш Авито.</description>
     </item>
     
     <item>
       <title>Авито</title>
-      <link>http://localhost:8080/pencil/avito/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/avito/</link>
       <pubDate>Tue, 31 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/avito/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/avito/</guid>
       <description>Как и карандаш из Сколково, этот я привез с конференции Ритфест, который проходил в Сколково в 2016 году.</description>
     </item>
     
     <item>
       <title>Красноярск</title>
-      <link>http://localhost:8080/pencil/krasnoyarsk/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/krasnoyarsk/</link>
       <pubDate>Sun, 08 May 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/krasnoyarsk/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/krasnoyarsk/</guid>
       <description>Сделаный из ветки дерева, с вырезанным боком, на котором красиво написано &amp;ldquo;Красноярск&amp;rdquo;. Похож на Осетинский.</description>
     </item>
     
     <item>
       <title>Один</title>
-      <link>http://localhost:8080/pencil/odin/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/odin/</link>
       <pubDate>Sun, 27 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/odin/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/odin/</guid>
       <description>Взял на одном из стендов Codefest, что делают эти ребята, я не знаю, но мимо карандаша не смог пройти.
 Черный как и райк.</description>
     </item>
     
     <item>
       <title>Большой Ярославль</title>
-      <link>http://localhost:8080/pencil/yaroslavl/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/yaroslavl/</link>
       <pubDate>Sun, 20 Mar 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/yaroslavl/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/yaroslavl/</guid>
       <description>Это огромный карандаш из Ярославля, он меньше самого большого китайского карандаша из моей коллекции сантиметров на 5. А на конце резинка в расцветке футбольного мяча.</description>
     </item>
     
     <item>
       <title>Привет из Осетии!</title>
-      <link>http://localhost:8080/pencil/osetia/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/osetia/</link>
       <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/osetia/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/osetia/</guid>
       <description>Не ожидал найти такой карандаш во Владикавказе, больше напоминает какой-нибудь Таиланд. А вообще, я купил его в аэропорту Беслана, перед вылетом. Крупная деревяшка с толстым грифелем синего цвета. На боку выжжено &amp;ldquo;Привет из Осетии!&amp;rdquo;, а на скошенном торце – флаг: триколор белый-красный-желтый. Похож на красноярский карандаш. Цена 150 рублей.</description>
     </item>
     
     <item>
       <title>Google Вперед!</title>
-      <link>http://localhost:8080/pencil/google/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/google/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/google/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/google/</guid>
       <description>ВПЕРЁД! вместе с Google
 именно так на нем и написанно. Карандаш с одноименного мероприятия, проходившего в Академпарке</description>
     </item>
     
     <item>
       <title>iнформат</title>
-      <link>http://localhost:8080/pencil/krym/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/krym/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/krym/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/krym/</guid>
       <description>Обычный карандаш, но привезен из Крыма. Хоть по нему так и не скажешь.</description>
     </item>
     
     <item>
       <title>Двагис</title>
-      <link>http://localhost:8080/pencil/2gis/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/2gis/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/2gis/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/2gis/</guid>
       <description>Это – корпоративный карандаш двагис, об этом говорит ссылка: www.2gis.ru.</description>
     </item>
     
     <item>
       <title>Томск Конструктор</title>
-      <link>http://localhost:8080/pencil/tomsk/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/tomsk/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/tomsk/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/tomsk/</guid>
       <description>Вообще-то, карндаш я нашел в Новосибирске, но он очень уж похож на томский, поэтому расширяем границы.</description>
     </item>
     
     <item>
       <title>ЦФТ</title>
-      <link>http://localhost:8080/pencil/cft/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/cft/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/cft/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/cft/</guid>
       <description>Корпоративный карандаш ЦФТ. За три года работы в этой компании у меня было много карандашей с символикой, но они все были шестиугольные, но этот, редкий круглый, я сохранил.</description>
     </item>
     
     <item>
       <title>Бесплатный карандаш из Икеи</title>
-      <link>http://localhost:8080/pencil/ikea/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/ikea/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/ikea/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/ikea/</guid>
       <description>Этот карандаш известен по всему миру, где есть Икея. Маленькие, в какой-то степени одноразовые, карандаши бесплатными кипами разбросаны в магазинах Икеи, чтобы покупатели могли делать свои заметки. А это значит, что такой карандаш притащил и я к себе домой из нашего Новосибирского магазина.</description>
     </item>
     

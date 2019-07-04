@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Нидерланды on Pencil box</title>
-    <link>http://localhost:8080/countries/%D0%BD%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B/</link>
+    <link>https://romanyanke.github.io/taxonomy/countries/%D0%BD%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B/</link>
     <description>Recent content in Нидерланды on Pencil box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 02 Sep 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:8080/countries/%D0%BD%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://romanyanke.github.io/taxonomy/countries/%D0%BD%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Музей Ван Гога в Амстердаме</title>
-      <link>http://localhost:8080/pencil/vangogh/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/vangogh/</link>
       <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/vangogh/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/vangogh/</guid>
       <description>В этом музее было огромное количество карандашей, разных форм, а еще со многими принтами картин. Пришлось выбирать один, выбрал нестандартной формы. Этот карандаш чуть больше обычного и имеет приятную овальную форму. Это первый овальный карандаш в моей коллекции.</description>
     </item>
     

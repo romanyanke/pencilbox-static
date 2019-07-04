@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>отельный on Pencil box</title>
-    <link>http://localhost:8080/tags/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9/</link>
+    <link>https://romanyanke.github.io/taxonomy/tags/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9/</link>
     <description>Recent content in отельный on Pencil box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://localhost:8080/tags/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://romanyanke.github.io/taxonomy/tags/%D0%BE%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Ирландская ферма</title>
-      <link>http://localhost:8080/pencil/irishfarm/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/irishfarm/</link>
       <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/irishfarm/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/irishfarm/</guid>
       <description>Ирландский карандаш с фермерскими мотивами и животными, которые заглядывают тебе прямо в душу.</description>
     </item>
     
     <item>
       <title>Marina Bay Sands</title>
-      <link>http://localhost:8080/pencil/marinabaysands/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/marinabaysands/</link>
       <pubDate>Tue, 09 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/marinabaysands/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/marinabaysands/</guid>
       <description>Marina Bay Sands — гостиница и казино на берегу Marina Bay в Центральном регионе Сингапура. Маленький как из икеи.</description>
     </item>
     
     <item>
       <title>Юный стиратель</title>
-      <link>http://localhost:8080/pencil/junior-eraser/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/junior-eraser/</link>
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/junior-eraser/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/junior-eraser/</guid>
       <description>У меня уже целая категория отельных карандашей: когда приезжаешь на отдых, но не уверен, что удастся купить красивый карандаш, но в отеле лежит простой бесплатный – берешь его.</description>
     </item>
     
     <item>
       <title>Карандаш из отеля</title>
-      <link>http://localhost:8080/pencil/phukethotel/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/phukethotel/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/phukethotel/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/phukethotel/</guid>
       <description>Украл из отеля Три Транг на Пхукете, недалеко от Патонга. Карандаш был вложен в папочку, чтобы подписывать открытки или еще что-то типа того, но я сразу понял, что привезу этот, пусть ничем и непримечательный, карандаш домой. Разных красивых карандашей из Таиланда у меня и так немало.</description>
     </item>
     
     <item>
       <title>Неизвестный брауберг</title>
-      <link>http://localhost:8080/pencil/brauberg/</link>
+      <link>https://romanyanke.github.io/taxonomy/pencil/brauberg/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:8080/pencil/brauberg/</guid>
+      <guid>https://romanyanke.github.io/taxonomy/pencil/brauberg/</guid>
       <description>Вот про этот карандаш я совсем не уверен. Он давно лежит вместе с остальными, но я не могу вспомнить: то ли мне его привез кто-то, то ли он просто куплен где-то тут.</description>
     </item>
     
