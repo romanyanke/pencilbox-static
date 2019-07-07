@@ -6,10 +6,55 @@
     <description>Recent content in Россия on Pencil box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://romanyanke.github.io/pencilbox-static/countries/%D1%80%D0%BE%D1%81%D1%81%D0%B8%D1%8F/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Карандаш для скетчей</title>
+      <link>https://romanyanke.github.io/pencilbox-static/pencil/sketching/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://romanyanke.github.io/pencilbox-static/pencil/sketching/</guid>
+      <description>Ко мне он попал из-за своей необычной форма, он почти прямоугольный. Но поскольку до него все мои карандаши делились на круглые, квадратные, шестиугольные, треугольные и овальные, я решил отнести его к последним, ведь там пока только один карандаш.</description>
+    </item>
+    
+    <item>
+      <title>Русский музей</title>
+      <link>https://romanyanke.github.io/pencilbox-static/pencil/russian-museum/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://romanyanke.github.io/pencilbox-static/pencil/russian-museum/</guid>
+      <description>Простой красный трегульный карандаш, купленный в сувенирной лавке Русского музея.</description>
+    </item>
+    
+    <item>
+      <title>Эргономичный</title>
+      <link>https://romanyanke.github.io/pencilbox-static/pencil/ergonomic/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://romanyanke.github.io/pencilbox-static/pencil/ergonomic/</guid>
+      <description>Наверное, все эти вырезанные углубления сделаны для того, чтобы карандаш было удобно держать. Странно, но ведь все другие карандаши тоже удобно держать.</description>
+    </item>
+    
+    <item>
+      <title>Карандаш из ресторана</title>
+      <link>https://romanyanke.github.io/pencilbox-static/pencil/bochkari/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://romanyanke.github.io/pencilbox-static/pencil/bochkari/</guid>
+      <description>Карандаш из подставки с салфетками на столе. Наверное, чтобы писать отзывы о заведении. Я забарал его с собой.</description>
+    </item>
+    
+    <item>
+      <title>Отрезанный бок</title>
+      <link>https://romanyanke.github.io/pencilbox-static/pencil/sliced/</link>
+      <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://romanyanke.github.io/pencilbox-static/pencil/sliced/</guid>
+      <description>Едва ли этот карандаш подходит под категорию &amp;ldquo;Скошенный бок&amp;rdquo;, но у него будто отрезан кусок. Не знаю, зачем ему такая форма.</description>
+    </item>
     
     <item>
       <title>JetBrains</title>

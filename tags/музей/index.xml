@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>музей on Pencil box</title>
+    <title>Музей on Pencil box</title>
     <link>https://romanyanke.github.io/pencilbox-static/tags/%D0%BC%D1%83%D0%B7%D0%B5%D0%B9/</link>
-    <description>Recent content in музей on Pencil box</description>
+    <description>Recent content in Музей on Pencil box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://romanyanke.github.io/pencilbox-static/tags/%D0%BC%D1%83%D0%B7%D0%B5%D0%B9/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Русский музей</title>
+      <link>https://romanyanke.github.io/pencilbox-static/pencil/russian-museum/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://romanyanke.github.io/pencilbox-static/pencil/russian-museum/</guid>
+      <description>Простой красный трегульный карандаш, купленный в сувенирной лавке Русского музея.</description>
+    </item>
     
     <item>
       <title>Кучер</title>
@@ -27,15 +36,6 @@
       
       <guid>https://romanyanke.github.io/pencilbox-static/pencil/centre-pompidou/</guid>
       <description>Карандаш из грифеля, он тяжелее, чем выглядит и хрупкий: конец заточенного грифеля обломился еще по дороге.</description>
-    </item>
-    
-    <item>
-      <title>Ирландская ферма</title>
-      <link>https://romanyanke.github.io/pencilbox-static/pencil/irishfarm/</link>
-      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://romanyanke.github.io/pencilbox-static/pencil/irishfarm/</guid>
-      <description>Ирландский карандаш с фермерскими мотивами и животными, которые заглядывают тебе прямо в душу.</description>
     </item>
     
     <item>

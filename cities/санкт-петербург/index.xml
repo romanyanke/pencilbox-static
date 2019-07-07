@@ -6,10 +6,19 @@
     <description>Recent content in Санкт-Петербург on Pencil box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://romanyanke.github.io/pencilbox-static/cities/%D1%81%D0%B0%D0%BD%D0%BA%D1%82-%D0%BF%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Русский музей</title>
+      <link>https://romanyanke.github.io/pencilbox-static/pencil/russian-museum/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://romanyanke.github.io/pencilbox-static/pencil/russian-museum/</guid>
+      <description>Простой красный трегульный карандаш, купленный в сувенирной лавке Русского музея.</description>
+    </item>
     
     <item>
       <title>JetBrains</title>
