@@ -4,31 +4,84 @@
   
   <url>
     <loc>https://romanyanke.github.io/pencilbox-static/cities/</loc>
-    <lastmod>2019-09-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://romanyanke.github.io/pencilbox-static/countries/</loc>
-    <lastmod>2019-09-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://romanyanke.github.io/pencilbox-static/</loc>
-    <lastmod>2019-09-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://romanyanke.github.io/pencilbox-static/pencil/</loc>
-    <lastmod>2019-09-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://romanyanke.github.io/pencilbox-static/tags/</loc>
-    <lastmod>2019-09-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://romanyanke.github.io/pencilbox-static/cities/%D0%B0%D0%BC%D1%81%D1%82%D0%B5%D1%80%D0%B4%D0%B0%D0%BC/</loc>
+    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%BC%D1%83%D0%B7%D0%B5%D0%B9/</loc>
+    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://romanyanke.github.io/pencilbox-static/countries/%D0%BD%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B/</loc>
+    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://romanyanke.github.io/pencilbox-static/pencil/rembrandt/</loc>
+    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romanyanke.github.io/pencilbox-static/tags/%D1%81-%D1%80%D0%B5%D0%B7%D0%B8%D0%BD%D0%BA%D0%BE%D0%B9/</loc>
+    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%B2-%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%B5/</loc>
+    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%B7%D0%B0%D1%82%D0%BE%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9/</loc>
+    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%BA%D1%80%D1%83%D0%B3%D0%BB%D1%8B%D0%B9/</loc>
+    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9/</loc>
+    <lastmod>2019-09-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -57,18 +110,6 @@
   
   <url>
     <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5/</loc>
-    <lastmod>2019-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%BA%D1%80%D1%83%D0%B3%D0%BB%D1%8B%D0%B9/</loc>
-    <lastmod>2019-09-13T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9/</loc>
     <lastmod>2019-09-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -109,12 +150,6 @@
   </url>
   
   <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%B7%D0%B0%D1%82%D0%BE%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9/</loc>
-    <lastmod>2019-07-14T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%BD%D0%B5%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D0%B9/</loc>
     <lastmod>2019-07-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -135,12 +170,6 @@
   <url>
     <loc>https://romanyanke.github.io/pencilbox-static/pencil/sketching/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%BC%D1%83%D0%B7%D0%B5%D0%B9/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -192,12 +221,6 @@
   <url>
     <loc>https://romanyanke.github.io/pencilbox-static/pencil/ergonomic/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/tags/%D1%81-%D1%80%D0%B5%D0%B7%D0%B8%D0%BD%D0%BA%D0%BE%D0%B9/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -314,12 +337,6 @@
   
   <url>
     <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F-%D1%80%D0%B5%D0%B7%D0%B8%D0%BD%D0%BA%D0%B0/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%B2-%D0%BA%D0%BE%D0%BD%D0%B2%D0%B5%D1%80%D1%82%D0%B5/</loc>
     <lastmod>2019-05-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -679,13 +696,13 @@
   </url>
   
   <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/cities/%D1%81%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80/</loc>
+    <loc>https://romanyanke.github.io/pencilbox-static/countries/%D1%81%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80/</loc>
     <lastmod>2018-01-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/countries/%D1%81%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80/</loc>
+    <loc>https://romanyanke.github.io/pencilbox-static/cities/%D1%81%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80/</loc>
     <lastmod>2018-01-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -802,12 +819,6 @@
   </url>
   
   <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/cities/%D0%B0%D0%BC%D1%81%D1%82%D0%B5%D1%80%D0%B4%D0%B0%D0%BC/</loc>
-    <lastmod>2017-09-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://romanyanke.github.io/pencilbox-static/countries/%D0%B1%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C/</loc>
     <lastmod>2017-09-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -834,12 +845,6 @@
   <url>
     <loc>https://romanyanke.github.io/pencilbox-static/pencil/vangogh/</loc>
     <lastmod>2017-09-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/countries/%D0%BD%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B/</loc>
-    <lastmod>2017-09-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -1324,13 +1329,13 @@
   </url>
   
   <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/cities/%D0%B2%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%D0%BD/</loc>
+    <loc>https://romanyanke.github.io/pencilbox-static/countries/%D0%B2%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%D0%BD/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/countries/%D0%B2%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%D0%BD/</loc>
+    <loc>https://romanyanke.github.io/pencilbox-static/cities/%D0%B2%D0%B0%D1%82%D0%B8%D0%BA%D0%B0%D0%BD/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

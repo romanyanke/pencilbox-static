@@ -6,10 +6,19 @@
     <description>Recent content in Cities on Pencil box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://romanyanke.github.io/pencilbox-static/cities/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Амстердам</title>
+      <link>https://romanyanke.github.io/pencilbox-static/cities/%D0%B0%D0%BC%D1%81%D1%82%D0%B5%D1%80%D0%B4%D0%B0%D0%BC/</link>
+      <pubDate>Wed, 18 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://romanyanke.github.io/pencilbox-static/cities/%D0%B0%D0%BC%D1%81%D1%82%D0%B5%D1%80%D0%B4%D0%B0%D0%BC/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Стокгольм</title>
@@ -314,15 +323,6 @@
       <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://romanyanke.github.io/pencilbox-static/cities/%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Амстердам</title>
-      <link>https://romanyanke.github.io/pencilbox-static/cities/%D0%B0%D0%BC%D1%81%D1%82%D0%B5%D1%80%D0%B4%D0%B0%D0%BC/</link>
-      <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://romanyanke.github.io/pencilbox-static/cities/%D0%B0%D0%BC%D1%81%D1%82%D0%B5%D1%80%D0%B4%D0%B0%D0%BC/</guid>
       <description></description>
     </item>
     
