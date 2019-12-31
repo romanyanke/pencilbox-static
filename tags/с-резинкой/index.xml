@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>с резинкой on Pencil box</title>
@@ -125,7 +125,7 @@
       <pubDate>Sun, 08 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://romanyanke.github.io/pencilbox-static/pencil/lennusadam/</guid>
-      <description>Леннусадам — гидроаэропорт в Таллине на берегу Таллинского залива. Теперь там классный военно-морской музей. Кораблик – символ или логотип этого музея. Пора завести категорию карандашей в конвертах.</description>
+      <description>Леннусадам — гидроаэропорт в Таллине на берегу Таллинского залива. Теперь там классный военно-морской музей. Кораблик – символ или логотип этого музея. Пора завести категорию карандашей [в конвертах](?tag=в конверте).</description>
     </item>
     
     <item>
@@ -179,7 +179,7 @@
       <pubDate>Sat, 02 Sep 2017 00:00:00 +0000</pubDate>
       
       <guid>https://romanyanke.github.io/pencilbox-static/pencil/belarus/</guid>
-      <description>Простой белый карандаш с надписью латиницей BELARUS и знаком-вышиванкой (или «вышыванка», как говорят белорусы)</description>
+      <description>Простой белый карандаш с надписью латиницей BELARUSи знаком-вышиванкой (или «вышыванка», как говорят белорусы)</description>
     </item>
     
     <item>
@@ -270,9 +270,8 @@
       <pubDate>Sat, 29 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://romanyanke.github.io/pencilbox-static/pencil/miniyandex/</guid>
-      <description>✏ ✏ ✏ ✏ ✏ ✏ ✏ ✏ ✏ ✏ ✏ ✏
-Мини-набор &amp;ldquo;Раскрашу всё&amp;rdquo; из 12 цветных карандашей от Яндекса. Сам футляр размером с визитку, а каждый карандаш 45 миллиметров в длину. Еще там есть резинка и точилка для маленьких карандашей.
-А еще у меня есть фруктовый набор карандашей от Яндекса.</description>
+      <description>✏✏✏✏✏✏✏✏✏✏✏✏Мини-набор &amp;ldquo;Раскрашу всё&amp;rdquo; из 12 цветных карандашей от Яндекса. Сам футляр размером с визитку, а каждый карандаш 45 миллиметров в длину. Еще там есть резинка и точилка для маленьких карандашей.
+А еще у меня есть фруктовый набор карандашейот Яндекса.</description>
     </item>
     
     <item>
@@ -345,7 +344,7 @@
       <pubDate>Sat, 26 Mar 2016 00:00:00 +0000</pubDate>
       
       <guid>https://romanyanke.github.io/pencilbox-static/pencil/oxford/</guid>
-      <description>Бодлианская библиотека — библиотека Оксфордского университета, которая оспаривает у Ватиканской право называться старейшей в Европе, а у Британской — титул самого крупного книжного собрания Великобритании. Сам карандаш с классной тяжелой книгой, сделанной из какого-то металла. Обычно у меня карандаши делятся на те, что с игрушкой на конце или с резинкой. А у этого есть и то и другое, потому что вместе с ним была отдельная большая резинка в виде книги.</description>
+      <description>Бодлианская библиотека — библиотека Оксфордского университета, которая оспаривает у Ватиканской право называться старейшей в Европе, а у Британской — титул самого крупного книжного собрания Великобритании. Сам карандаш с классной тяжелой книгой, сделанной из какого-то металла. Обычно у меня карандаши делятся на те, что с [игрушкой на конце](?tag=с игрушкой) или с [резинкой](?tag=с резинкой). А у этого есть и то и другое, потому что вместе с ним была отдельная большая резинка в виде книги.</description>
     </item>
     
     <item>
@@ -436,17 +435,7 @@
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://romanyanke.github.io/pencilbox-static/pencil/google/</guid>
-      <description>ВПЕРЁД! вместе с Google
-именно так на нем и написанно. Карандаш с одноименного мероприятия, проходившего в Академпарке</description>
-    </item>
-    
-    <item>
-      <title>Montenegro Crna gora</title>
-      <link>https://romanyanke.github.io/pencilbox-static/pencil/montenegro/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://romanyanke.github.io/pencilbox-static/pencil/montenegro/</guid>
-      <description>Карандаш украшен городами, пейзажами и памятниками архитектуры Черногории: Sveti Stefan, Herceg Novi, Ostrog – люблю, когда слова похожи на русские.</description>
+      <description>ВПЕРЁД! вместе с Googleименно так на нем и написанно. Карандаш с одноименного мероприятия, проходившего в Академпарке</description>
     </item>
     
     <item>
@@ -456,6 +445,15 @@
       
       <guid>https://romanyanke.github.io/pencilbox-static/pencil/krym/</guid>
       <description>Обычный карандаш, но привезен из Крыма. Хоть по нему так и не скажешь.</description>
+    </item>
+    
+    <item>
+      <title>Montenegro Crna gora</title>
+      <link>https://romanyanke.github.io/pencilbox-static/pencil/montenegro/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://romanyanke.github.io/pencilbox-static/pencil/montenegro/</guid>
+      <description>Карандаш украшен городами, пейзажами и памятниками архитектуры Черногории: Sveti Stefan, Herceg Novi, Ostrog – люблю, когда слова похожи на русские.</description>
     </item>
     
     <item>
@@ -601,7 +599,7 @@
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://romanyanke.github.io/pencilbox-static/pencil/firenze/</guid>
-      <description>Карандаш с надписью &amp;ldquo;I l&amp;#x2764;ve Firenze&amp;rdquo; и символами Италии. На самом карандаше можно найти: корову, вино, туфли, кофе, солнце, арбуз, машину, апельсин и прочее, видимо, итальянское.</description>
+      <description>Карандаш с надписью &amp;ldquo;I l❤ve Firenze&amp;rdquo; и символами Италии. На самом карандаше можно найти: корову, вино, туфли, кофе, солнце, арбуз, машину, апельсин и прочее, видимо, итальянское.</description>
     </item>
     
     <item>

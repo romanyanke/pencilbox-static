@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Россия on Pencil box</title>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://romanyanke.github.io/pencilbox-static/pencil/sliced/</guid>
-      <description>Едва ли этот карандаш подходит под категорию &amp;ldquo;Скошенный бок&amp;rdquo;, но у него будто отрезан кусок. Не знаю, зачем ему такая форма.</description>
+      <description>Едва ли этот карандаш подходит под категорию &amp;ldquo;[Скошенный бок](?tag=Скошенный бок)&amp;quot;, но у него будто отрезан кусок. Не знаю, зачем ему такая форма.</description>
     </item>
     
     <item>
@@ -216,9 +216,8 @@
       <pubDate>Sat, 29 Oct 2016 00:00:00 +0000</pubDate>
       
       <guid>https://romanyanke.github.io/pencilbox-static/pencil/miniyandex/</guid>
-      <description>✏ ✏ ✏ ✏ ✏ ✏ ✏ ✏ ✏ ✏ ✏ ✏
-Мини-набор &amp;ldquo;Раскрашу всё&amp;rdquo; из 12 цветных карандашей от Яндекса. Сам футляр размером с визитку, а каждый карандаш 45 миллиметров в длину. Еще там есть резинка и точилка для маленьких карандашей.
-А еще у меня есть фруктовый набор карандашей от Яндекса.</description>
+      <description>✏✏✏✏✏✏✏✏✏✏✏✏Мини-набор &amp;ldquo;Раскрашу всё&amp;rdquo; из 12 цветных карандашей от Яндекса. Сам футляр размером с визитку, а каждый карандаш 45 миллиметров в длину. Еще там есть резинка и точилка для маленьких карандашей.
+А еще у меня есть фруктовый набор карандашейот Яндекса.</description>
     </item>
     
     <item>
@@ -254,7 +253,7 @@
       <pubDate>Sun, 08 May 2016 00:00:00 +0000</pubDate>
       
       <guid>https://romanyanke.github.io/pencilbox-static/pencil/krasnoyarsk/</guid>
-      <description>Сделаный из ветки дерева, с вырезанным боком, на котором красиво написано &amp;ldquo;Красноярск&amp;rdquo;. Похож на Осетинский.</description>
+      <description>Сделаный из ветки дерева, с [вырезанным боком](?tag=скошенный бок), на котором красиво написано &amp;ldquo;Красноярск&amp;rdquo;. Похож на Осетинский.</description>
     </item>
     
     <item>
@@ -282,7 +281,7 @@
       <pubDate>Fri, 22 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>https://romanyanke.github.io/pencilbox-static/pencil/osetia/</guid>
-      <description>Не ожидал найти такой карандаш во Владикавказе, больше напоминает какой-нибудь Таиланд. А вообще, я купил его в аэропорту Беслана, перед вылетом. Крупная деревяшка с толстым грифелем синего цвета. На боку выжжено &amp;ldquo;Привет из Осетии!&amp;rdquo;, а на скошенном торце – флаг: триколор белый-красный-желтый. Похож на красноярский карандаш. Цена 150 рублей.</description>
+      <description>Не ожидал найти такой карандаш во Владикавказе, больше напоминает какой-нибудь Таиланд. А вообще, я купил его в аэропорту Беслана, перед вылетом. Крупная деревяшка с толстым грифелем синего цвета. На боку выжжено &amp;ldquo;Привет из Осетии!&amp;quot;, а на скошенном торце – флаг: триколор белый-красный-желтый. Похож на красноярский карандаш. Цена 150 рублей.</description>
     </item>
     
     <item>
@@ -291,8 +290,7 @@
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://romanyanke.github.io/pencilbox-static/pencil/google/</guid>
-      <description>ВПЕРЁД! вместе с Google
-именно так на нем и написанно. Карандаш с одноименного мероприятия, проходившего в Академпарке</description>
+      <description>ВПЕРЁД! вместе с Googleименно так на нем и написанно. Карандаш с одноименного мероприятия, проходившего в Академпарке</description>
     </item>
     
     <item>
