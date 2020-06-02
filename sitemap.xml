@@ -468,11 +468,6 @@
   </url>
   
   <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/countries/%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D1%8F/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://romanyanke.github.io/pencilbox-static/pencil/centre-pompidou/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
   </url>
@@ -483,12 +478,22 @@
   </url>
   
   <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/pencil/crayon-aimant/</loc>
+    <loc>https://romanyanke.github.io/pencilbox-static/cities/%D0%BD%D0%B5%D0%B0%D0%BF%D0%BE%D0%BB%D1%8C/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/cities/%D0%BD%D0%B5%D0%B0%D0%BF%D0%BE%D0%BB%D1%8C/</loc>
+    <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9/</loc>
+    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romanyanke.github.io/pencilbox-static/countries/%D0%B8%D1%82%D0%B0%D0%BB%D0%B8%D1%8F/</loc>
+    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romanyanke.github.io/pencilbox-static/pencil/crayon-aimant/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -514,11 +519,6 @@
   
   <url>
     <loc>https://romanyanke.github.io/pencilbox-static/pencil/pinocchio-third/</loc>
-    <lastmod>2019-03-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D1%8B%D0%B9/</loc>
     <lastmod>2019-03-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -713,12 +713,12 @@
   </url>
   
   <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/cities/%D1%81%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80/</loc>
+    <loc>https://romanyanke.github.io/pencilbox-static/countries/%D1%81%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80/</loc>
     <lastmod>2018-01-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/countries/%D1%81%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80/</loc>
+    <loc>https://romanyanke.github.io/pencilbox-static/cities/%D1%81%D0%B8%D0%BD%D0%B3%D0%B0%D0%BF%D1%83%D1%80/</loc>
     <lastmod>2018-01-09T00:00:00+00:00</lastmod>
   </url>
   
