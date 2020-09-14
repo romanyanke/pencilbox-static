@@ -4,37 +4,72 @@
   
   <url>
     <loc>https://romanyanke.github.io/pencilbox-static/cities/</loc>
-    <lastmod>2020-09-09T10:43:24+03:00</lastmod>
+    <lastmod>2020-09-14T10:59:02+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://romanyanke.github.io/pencilbox-static/geo/</loc>
-    <lastmod>2020-09-09T10:43:24+03:00</lastmod>
+    <lastmod>2020-09-14T10:59:02+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://romanyanke.github.io/pencilbox-static/</loc>
-    <lastmod>2020-09-09T10:43:24+03:00</lastmod>
+    <lastmod>2020-09-14T10:59:02+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://romanyanke.github.io/pencilbox-static/pencil/</loc>
-    <lastmod>2020-09-09T10:43:24+03:00</lastmod>
+    <lastmod>2020-09-14T10:59:02+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://romanyanke.github.io/pencilbox-static/geo/rus/</loc>
-    <lastmod>2020-09-09T10:43:24+03:00</lastmod>
+    <lastmod>2020-09-14T10:59:02+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://romanyanke.github.io/pencilbox-static/tags/</loc>
-    <lastmod>2020-09-09T10:43:24+03:00</lastmod>
+    <lastmod>2020-09-14T10:59:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romanyanke.github.io/pencilbox-static/pencil/eternal/</loc>
+    <lastmod>2020-09-14T10:59:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romanyanke.github.io/pencilbox-static/cities/%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0/</loc>
+    <lastmod>2020-09-14T10:59:02+03:00</lastmod>
   </url>
   
   <url>
     <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%BD%D0%B5%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82%D0%BD%D1%8B%D0%B9/</loc>
-    <lastmod>2020-09-09T10:43:24+03:00</lastmod>
+    <lastmod>2020-09-14T10:59:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%B1%D0%B5%D0%B7-%D1%80%D0%B5%D0%B7%D0%B8%D0%BD%D0%BA%D0%B8/</loc>
+    <lastmod>2020-09-14T10:59:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%B2-%D1%83%D0%BF%D0%B0%D0%BA%D0%BE%D0%B2%D0%BA%D0%B5/</loc>
+    <lastmod>2020-09-14T10:59:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%B7%D0%B0%D1%82%D0%BE%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9/</loc>
+    <lastmod>2020-09-14T10:59:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%BA%D1%80%D1%83%D0%B3%D0%BB%D1%8B%D0%B9/</loc>
+    <lastmod>2020-09-14T10:59:02+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9/</loc>
+    <lastmod>2020-09-14T10:59:02+03:00</lastmod>
   </url>
   
   <url>
@@ -53,27 +88,7 @@
   </url>
   
   <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%B1%D0%B5%D0%B7-%D1%80%D0%B5%D0%B7%D0%B8%D0%BD%D0%BA%D0%B8/</loc>
-    <lastmod>2020-09-09T10:43:24+03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%B3%D0%BE%D1%80%D0%BE%D0%B4/</loc>
-    <lastmod>2020-09-09T10:43:24+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%B7%D0%B0%D1%82%D0%BE%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9/</loc>
-    <lastmod>2020-09-09T10:43:24+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%BA%D1%80%D1%83%D0%B3%D0%BB%D1%8B%D0%B9/</loc>
-    <lastmod>2020-09-09T10:43:24+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9/</loc>
     <lastmod>2020-09-09T10:43:24+03:00</lastmod>
   </url>
   
@@ -254,11 +269,6 @@
   
   <url>
     <loc>https://romanyanke.github.io/pencilbox-static/pencil/copenhagen-four/</loc>
-    <lastmod>2019-11-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/tags/%D0%B2-%D1%83%D0%BF%D0%B0%D0%BA%D0%BE%D0%B2%D0%BA%D0%B5/</loc>
     <lastmod>2019-11-15T00:00:00+00:00</lastmod>
   </url>
   
@@ -830,11 +840,6 @@
   <url>
     <loc>https://romanyanke.github.io/pencilbox-static/pencil/barcelos/</loc>
     <lastmod>2017-10-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/cities/%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0/</loc>
-    <lastmod>2017-09-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
