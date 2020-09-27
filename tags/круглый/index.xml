@@ -152,7 +152,7 @@
     </item>
     
     <item>
-      <title>Карандаш из ресторана</title>
+      <title>Бочкари</title>
       <link>https://romanyanke.github.io/pencilbox-static/pencil/bochkari/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
       
@@ -161,7 +161,7 @@
     </item>
     
     <item>
-      <title>Три карандаша для разных поверхностей</title>
+      <title>Универсальные</title>
       <link>https://romanyanke.github.io/pencilbox-static/pencil/universal-writing/</link>
       <pubDate>Thu, 20 Jun 2019 00:00:00 +0000</pubDate>
       
@@ -251,7 +251,7 @@
     </item>
     
     <item>
-      <title>Карандаш из грифеля</title>
+      <title>Грифель</title>
       <link>https://romanyanke.github.io/pencilbox-static/pencil/centre-pompidou/</link>
       <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -679,7 +679,7 @@
     </item>
     
     <item>
-      <title>Карандаш из Сколково</title>
+      <title>Сколково</title>
       <link>https://romanyanke.github.io/pencilbox-static/pencil/skolkovo/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
       
@@ -872,16 +872,6 @@
     </item>
     
     <item>
-      <title>Два карандаша с уточками</title>
-      <link>https://romanyanke.github.io/pencilbox-static/pencil/spainducks/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://romanyanke.github.io/pencilbox-static/pencil/spainducks/</guid>
-      <description>Эти карандаши мне подарили в Испании, хотя на нем написано мэйд ин чайна. Всего у меня их два, но уточки на них разные.
-На каждом есть резинка, но она закрыта уточкой. На одном изображены непонятные символы, на другом — животные.</description>
-    </item>
-    
-    <item>
       <title>Двагис</title>
       <link>https://romanyanke.github.io/pencilbox-static/pencil/2gis/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
@@ -973,6 +963,15 @@
     </item>
     
     <item>
+      <title>Пузыри</title>
+      <link>https://romanyanke.github.io/pencilbox-static/pencil/bubbles/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://romanyanke.github.io/pencilbox-static/pencil/bubbles/</guid>
+      <description>Черный карандаш с разноцветными кругами и окружностями. С черной резинкой. Не могу вспомнить, кто и откуда мне его привез.</description>
+    </item>
+    
+    <item>
       <title>Пятерка из дерева</title>
       <link>https://romanyanke.github.io/pencilbox-static/pencil/thaifive/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
@@ -1038,6 +1037,16 @@
     </item>
     
     <item>
+      <title>Утки</title>
+      <link>https://romanyanke.github.io/pencilbox-static/pencil/spainducks/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://romanyanke.github.io/pencilbox-static/pencil/spainducks/</guid>
+      <description>Эти карандаши мне подарили в Испании, хотя на нем написано мэйд ин чайна. Всего у меня их два, но уточки на них разные.
+На каждом есть резинка, но она закрыта уточкой. На одном изображены непонятные символы, на другом — животные.</description>
+    </item>
+    
+    <item>
       <title>ФК Реал Мадрид</title>
       <link>https://romanyanke.github.io/pencilbox-static/pencil/fcm/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
@@ -1053,15 +1062,6 @@
       
       <guid>https://romanyanke.github.io/pencilbox-static/pencil/cft/</guid>
       <description>Корпоративный карандаш ЦФТ. За три года работы в этой компании у меня было много карандашей с символикой, но они все были шестиугольные, но этот, редкий круглый, я сохранил.</description>
-    </item>
-    
-    <item>
-      <title>Черный карандаш с пузырями</title>
-      <link>https://romanyanke.github.io/pencilbox-static/pencil/bubbles/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://romanyanke.github.io/pencilbox-static/pencil/bubbles/</guid>
-      <description>Черный карандаш с разноцветными кругами и окружностями. С черной резинкой. Не могу вспомнить, кто и откуда мне его привез.</description>
     </item>
     
     <item>

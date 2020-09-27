@@ -1398,11 +1398,6 @@
   </url>
   
   <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/pencil/spainducks/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://romanyanke.github.io/pencilbox-static/pencil/2gis/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -1429,11 +1424,6 @@
   
   <url>
     <loc>https://romanyanke.github.io/pencilbox-static/pencil/abbaye/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/pencil/elgreco/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1513,6 +1503,11 @@
   </url>
   
   <url>
+    <loc>https://romanyanke.github.io/pencilbox-static/pencil/bubbles/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://romanyanke.github.io/pencilbox-static/cities/%D0%BF%D1%85%D1%83%D0%BA%D0%B5%D1%82/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -1578,6 +1573,11 @@
   </url>
   
   <url>
+    <loc>https://romanyanke.github.io/pencilbox-static/pencil/spainducks/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://romanyanke.github.io/pencilbox-static/pencil/fcm/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -1598,12 +1598,12 @@
   </url>
   
   <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/pencil/bubbles/</loc>
+    <loc>https://romanyanke.github.io/pencilbox-static/pencil/ceska/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://romanyanke.github.io/pencilbox-static/pencil/ceska/</loc>
+    <loc>https://romanyanke.github.io/pencilbox-static/pencil/elgreco/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   

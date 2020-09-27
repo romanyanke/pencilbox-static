@@ -66,16 +66,6 @@
     </item>
     
     <item>
-      <title>Два карандаша с уточками</title>
-      <link>https://romanyanke.github.io/pencilbox-static/pencil/spainducks/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://romanyanke.github.io/pencilbox-static/pencil/spainducks/</guid>
-      <description>Эти карандаши мне подарили в Испании, хотя на нем написано мэйд ин чайна. Всего у меня их два, но уточки на них разные.
-На каждом есть резинка, но она закрыта уточкой. На одном изображены непонятные символы, на другом — животные.</description>
-    </item>
-    
-    <item>
       <title>Дон Кихот</title>
       <link>https://romanyanke.github.io/pencilbox-static/pencil/guadalajara/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
@@ -94,16 +84,6 @@
     </item>
     
     <item>
-      <title>Карандаш из музея Эль Греко</title>
-      <link>https://romanyanke.github.io/pencilbox-static/pencil/elgreco/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://romanyanke.github.io/pencilbox-static/pencil/elgreco/</guid>
-      <description>Красный карандаш стандартный по длине, но чуть толще обычного. Толстый грифель, состоящий из красного, белого и синего цветов. Когда пишешь, линия идет красного или синего цвета плюс все переходы между тремя цветами (белый делает бледнее, а на стыке красного и синего получается розово-фиолетовый).
-Оказывается, в музее современного искусства в Хельсинки продается точно такой же карандаш, но с другой надпиюсью.</description>
-    </item>
-    
-    <item>
       <title>Университет Алькалы</title>
       <link>https://romanyanke.github.io/pencilbox-static/pencil/alcala/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
@@ -113,12 +93,32 @@
     </item>
     
     <item>
+      <title>Утки</title>
+      <link>https://romanyanke.github.io/pencilbox-static/pencil/spainducks/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://romanyanke.github.io/pencilbox-static/pencil/spainducks/</guid>
+      <description>Эти карандаши мне подарили в Испании, хотя на нем написано мэйд ин чайна. Всего у меня их два, но уточки на них разные.
+На каждом есть резинка, но она закрыта уточкой. На одном изображены непонятные символы, на другом — животные.</description>
+    </item>
+    
+    <item>
       <title>ФК Реал Мадрид</title>
       <link>https://romanyanke.github.io/pencilbox-static/pencil/fcm/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://romanyanke.github.io/pencilbox-static/pencil/fcm/</guid>
       <description>Карандаш со стадиона Сантьяго Бернабеу, в упаковке. На огромной резинке эмблема футбольного клуба. На самом карандаше написано Real Madrid 1902 – год основания клуба.</description>
+    </item>
+    
+    <item>
+      <title>Эль Греко</title>
+      <link>https://romanyanke.github.io/pencilbox-static/pencil/elgreco/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://romanyanke.github.io/pencilbox-static/pencil/elgreco/</guid>
+      <description>Красный карандаш стандартный по длине, но чуть толще обычного. Толстый грифель, состоящий из красного, белого и синего цветов. Когда пишешь, линия идет красного или синего цвета плюс все переходы между тремя цветами (белый делает бледнее, а на стыке красного и синего получается розово-фиолетовый).
+Оказывается, в музее современного искусства в Хельсинки продается точно такой же карандаш, но с другой надпиюсью.</description>
     </item>
     
   </channel>

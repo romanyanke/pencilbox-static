@@ -113,7 +113,7 @@
     </item>
     
     <item>
-      <title>Карандаш из грифеля</title>
+      <title>Грифель</title>
       <link>https://romanyanke.github.io/pencilbox-static/pencil/centre-pompidou/</link>
       <pubDate>Sat, 30 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -332,16 +332,6 @@
     </item>
     
     <item>
-      <title>Карандаш из музея Эль Греко</title>
-      <link>https://romanyanke.github.io/pencilbox-static/pencil/elgreco/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://romanyanke.github.io/pencilbox-static/pencil/elgreco/</guid>
-      <description>Красный карандаш стандартный по длине, но чуть толще обычного. Толстый грифель, состоящий из красного, белого и синего цветов. Когда пишешь, линия идет красного или синего цвета плюс все переходы между тремя цветами (белый делает бледнее, а на стыке красного и синего получается розово-фиолетовый).
-Оказывается, в музее современного искусства в Хельсинки продается точно такой же карандаш, но с другой надпиюсью.</description>
-    </item>
-    
-    <item>
       <title>Пятерка из дерева</title>
       <link>https://romanyanke.github.io/pencilbox-static/pencil/thaifive/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
@@ -370,7 +360,17 @@
     </item>
     
     <item>
-      <title>Бесплатный карандаш из Икеи</title>
+      <title>Эль Греко</title>
+      <link>https://romanyanke.github.io/pencilbox-static/pencil/elgreco/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://romanyanke.github.io/pencilbox-static/pencil/elgreco/</guid>
+      <description>Красный карандаш стандартный по длине, но чуть толще обычного. Толстый грифель, состоящий из красного, белого и синего цветов. Когда пишешь, линия идет красного или синего цвета плюс все переходы между тремя цветами (белый делает бледнее, а на стыке красного и синего получается розово-фиолетовый).
+Оказывается, в музее современного искусства в Хельсинки продается точно такой же карандаш, но с другой надпиюсью.</description>
+    </item>
+    
+    <item>
+      <title>IKEA</title>
       <link>https://romanyanke.github.io/pencilbox-static/pencil/ikea/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
