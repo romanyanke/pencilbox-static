@@ -1,15 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>скошенный бок on Pencil box</title>
+    <title>Скошенный бок on Pencil box</title>
     <link>https://romanyanke.github.io/pencilbox-static/tags/%D1%81%D0%BA%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B1%D0%BE%D0%BA/</link>
-    <description>Recent content in скошенный бок on Pencil box</description>
+    <description>Recent content in Скошенный бок on Pencil box</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2020 10:43:24 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jun 2021 13:45:47 +0300</lastBuildDate>
     
 	<atom:link href="https://romanyanke.github.io/pencilbox-static/tags/%D1%81%D0%BA%D0%BE%D1%88%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%B1%D0%BE%D0%BA/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Албания</title>
+      <link>https://romanyanke.github.io/pencilbox-static/pencil/albania/</link>
+      <pubDate>Wed, 16 Jun 2021 13:45:47 +0300</pubDate>
+      
+      <guid>https://romanyanke.github.io/pencilbox-static/pencil/albania/</guid>
+      <description>Албанский карандаш похож на многие другие со скошенным боком.</description>
+    </item>
+    
+    <item>
+      <title>Териберка</title>
+      <link>https://romanyanke.github.io/pencilbox-static/pencil/teriberka/</link>
+      <pubDate>Wed, 16 Jun 2021 13:19:50 +0300</pubDate>
+      
+      <guid>https://romanyanke.github.io/pencilbox-static/pencil/teriberka/</guid>
+      <description>Териберка – это очень северное село в Мурманской области.</description>
+    </item>
     
     <item>
       <title>Скошенный бок Челябинск</title>
